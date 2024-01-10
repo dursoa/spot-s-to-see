@@ -1,1 +1,1 @@
-# spot-s-to-see
+# spots-to-see
